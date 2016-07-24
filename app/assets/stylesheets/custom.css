@@ -1,6 +1,6 @@
 .jumbotron {
     /* add bootstrap jumbotron background image */
-    background: url(image-path("cupcake.jpg")); background-size: center center;
+    background: url('cupcake.jpg'); background-size: center center;
     /* change bootstrap jumbotron text color */
     color: #000000;
 !important }
